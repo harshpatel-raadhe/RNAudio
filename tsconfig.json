@@ -82,7 +82,6 @@
     "metro.config.js",
     "jest.config.js",
     "index.js",
-    "src/App/App.tsxp.js"
   ],
   "compileOnSave": false
 }
