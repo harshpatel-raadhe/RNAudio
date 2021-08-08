@@ -12,6 +12,7 @@ target 'RNAudioPlayer' do
     :hermes_enabled => false
   )
 
+
   target 'RNAudioPlayerTests' do
     inherit! :complete
     # Pods for testing
