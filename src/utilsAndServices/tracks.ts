@@ -3,7 +3,8 @@ import TrackPlayer from 'react-native-track-player';
 export const tracks: TrackPlayer.Track[] = [
     {
         id: '1',
-        url: 'https://www.chosic.com/wp-content/uploads/2021/07/The-Epic-Hero-Epic-Cinematic-Keys-of-Moon-Music.mp3',
+        // url: 'https://www.chosic.com/wp-content/uploads/2021/07/The-Epic-Hero-Epic-Cinematic-Keys-of-Moon-Music.mp3',
+        url: 'http://streamingcast.live:9970/stream',
         title: 'Keys of moon',
         artist: 'The Epic Hero',
         artwork: 'https://picsum.photos/id/1003/200/300',
